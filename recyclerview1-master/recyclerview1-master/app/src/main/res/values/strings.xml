@@ -1,0 +1,34 @@
+<resources>
+    <string name="hint_nama_mahasiswa">Nama Mahasiswa</string>
+
+    <string name="hint_nim_mahasiswa">NIM Mahasiswa</string>
+
+    <string name="button_tambah">Tambah Mahasiswa</string>
+
+    <string name="app_name">Tambah Data Mahasiswa FILKOM UB</string>
+
+    <string-array name="nim">
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+        <item>1007</item>
+        <item>1008</item>
+        <item>1009</item>
+    </string-array>
+
+    <!-- Array untuk Nama Mahasiswa -->
+    <string-array name="nama">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>Mac OS X</item>
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>Symbian</item>
+        <item>Blackberry</item>
+        <item>Sun OS</item>
+        <item>Solaris</item>
+    </string-array>
+</resources>
